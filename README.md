@@ -1,5 +1,8 @@
 <div align="center">
   <h1>✦ Catch Pokémon — React Web App ✦</h1>
+  <p align="center" >
+  <img src="./public/Pokemon.png" alt="Pokemon Banner" height="100px"/>
+</p>
 
   <p>
     <em>A beautiful and responsive Pokémon explorer application built with React, Vite, and the PokeAPI.</em>
