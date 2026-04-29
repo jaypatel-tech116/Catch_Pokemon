@@ -5,7 +5,7 @@
     <em>A beautiful and responsive Pokémon explorer application built with React, Vite, and the PokeAPI.</em>
   </p>
 
-  <a href="https://catchpokemon.vercel.app/" target="_blank">
+  <a href="https://catchpokemon-byjay.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Website-Visit_Now-D4A017?style=for-the-badge&logo=vercel" alt="Live Website" />
   </a>
 
