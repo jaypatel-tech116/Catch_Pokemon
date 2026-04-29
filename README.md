@@ -31,7 +31,6 @@
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🏗️ Architecture](#-architecture)
-- [📸 Screenshots](#-screenshots)
 - [🚀 Getting Started](#-getting-started)
 - [📁 Project Structure](#-project-structure)
 - [🤝 Contributing](#-contributing)
@@ -88,16 +87,6 @@ graph TD
 
 ---
 
-## 📸 Screenshots
-
-*(Replace these placeholder links with actual screenshots of your application)*
-
-| Main Dashboard | Search Functionality |
-| -------------- | -------------------- |
-| <img src="https://via.placeholder.com/600x350/242424/61DAFB?text=Catch+Pokemon+Dashboard" alt="Dashboard" /> | <img src="https://via.placeholder.com/600x350/242424/61DAFB?text=Search+Pokemon" alt="Search" /> |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -105,7 +94,7 @@ graph TD
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Jaypatel1126/catchpokemon-byjay.git
+git clone https://github.com/jaypatel-tech116/Catch_Pokemon.git
 cd catchpokemon-byjay
 ```
 
