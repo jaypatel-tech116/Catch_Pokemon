@@ -164,5 +164,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you liked this project, please consider giving it a ⭐ star!
 
 <div align="center">
-  <strong>Built with 💛 by <a href="https://github.com/Jaypatel1126">Jay Patel</a></strong>
+  <strong>Built with 💛 by <a href="https://github.com/jaypatel-tech116">Jay Patel</a></strong>
 </div>
